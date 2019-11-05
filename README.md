@@ -1,2 +1,2 @@
-# cucumberFramework JabvaScript
-Cucumber Framework JavaScript Test Sample
+# cucumberFramework Java
+Cucumber Framework Java Test Sample

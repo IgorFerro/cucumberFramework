@@ -1,2 +1,2 @@
 # cucumberFramework
-Cucumber Framework Test
+Cucumber Framework Test Sample
